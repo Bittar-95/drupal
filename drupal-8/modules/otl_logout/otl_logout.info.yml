@@ -1,0 +1,10 @@
+name: One-Time-Login Logout
+description: Force authenticated visitor to be logged out when loading a one-time-login (OTL) link.
+type: module
+# core: 8.x
+
+# Information added by Drupal.org packaging script on 2017-09-29
+version: '8.x-1.1'
+core: '8.x'
+project: 'otl_logout'
+datestamp: 1506650048

@@ -1,0 +1,17 @@
+{
+  "name": "drupal/gds",
+  "description": "A Drupal 8 theme based on the GDS GOV.UK Frontend Toolkit.",
+  "type": "drupal-theme",
+  "homepage": "https://www.drupal.org/project/gds",
+  "authors": [
+    {
+      "name": "Andrew Hughes-Onslow",
+      "email": "andrew@kalpaitch.com",
+      "homepage": "https://www.drupal.org/u/kalpaitch",
+      "role": "Maintainer"
+    }
+  ],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": { }
+}
